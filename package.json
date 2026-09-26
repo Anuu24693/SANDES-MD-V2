@@ -1,12 +1,12 @@
 { 
-  "name": "SANDES-MD",
+  "name": "SHADOW x MD",
   "version": "2.0.0",
-  "description": "A WhatsApp bot created By MR.SANDES 🍒",
+  "description": "A WhatsApp bot created By MR.SHADOW 🍒",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SANDES-MD",
-    "stop": "pm2 stop SANDES-MD",
-    "restart": "pm2 restart SANDES-MD" 
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHADOW x MD",
+    "stop": "pm2 stop SHADOW x MD",
+    "restart": "pm2 restart SHADOW x MD" 
    }, 
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc11",
